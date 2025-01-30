@@ -1,5 +1,7 @@
 # Zoe & Mel Framework
 
+![Zoe & Mel Framework](https://cdn.prod.website-files.com/674396c59212c6ea348b24e0/679ba85159ad0da6c471489c_New%20Project%20-%202025-01-30T162450.416.png)
+
 > [!WARNING]
 > This is a proof of concept for combining LLMs to explore the web as AI.
 
